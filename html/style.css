@@ -1,0 +1,23 @@
+.texts{
+	font-size: 1.5em;
+	font-family: "Times New Roman", serif;
+}
+.center-cropped{
+	width:200px;
+	height: 300px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	overflow:hidden;
+	position:relative;
+}
+table, th, td{
+	border:1px solid black;
+}
+
+.bottoms{
+	position:absolute;
+	bottom:1px;
+	right:1px;
+	font-size: .5em;
+	background-color:gray"
+}
