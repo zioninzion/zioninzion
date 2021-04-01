@@ -14,7 +14,7 @@
 		}
 	</style>
 	<Title>
-		Zion in Zion
+		Zion in Zion!
 	</Title>
 </head>
 <body>
